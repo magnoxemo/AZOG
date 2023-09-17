@@ -1,11 +1,10 @@
 
-![image](https://github.com/magnoxemo/AZOG/assets/69362074/046551ed-a870-479a-9c96-ba9b144db089)
+AZOG is Nuclear Power Plant Simulation (operation and accident dynamics) code 
+
+
+![image](https://github.com/magnoxemo/AZOG/assets/69362074/43642023-4617-4c7e-8423-d5ff92b4a7e3)
+
 
     
 
-AZOG is nuclear power operation and accident dynamics code 
 
-EBNY WALID AHAMMED 
-Undergrad Student --Level 4 term 2
-Dept of Nuclear Engineering
-University of Dhaka
